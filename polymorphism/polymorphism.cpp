@@ -7,3 +7,8 @@ public:
 	//virtual void pesan() {
 		//cout << "Pesan dari seseorang" << endl;
 	//}
+	//virtual void cetak() = 0;
+	virtual void cetak() {
+
+	}
+};
