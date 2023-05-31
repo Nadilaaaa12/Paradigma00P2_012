@@ -15,3 +15,5 @@ public:
 
 int main() {
 	remoteLampu lampuRumah;
+
+	lampuRumah.SetSaklarNo(0, "Lampu teras Rumah");
