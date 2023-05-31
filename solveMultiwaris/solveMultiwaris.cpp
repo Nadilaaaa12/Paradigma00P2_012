@@ -37,5 +37,6 @@ public:
 
 	budi(int pUmur) :
 		pekerja(pUmur),
+		pelajar(pUmur),
 
 };
