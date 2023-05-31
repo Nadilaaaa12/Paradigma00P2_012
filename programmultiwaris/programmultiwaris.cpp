@@ -8,3 +8,5 @@ public:
 
 	orang(string pNama) :
 		nama(pNama) {
+		cout << "Orang dibuat\n" << endl;
+	}
