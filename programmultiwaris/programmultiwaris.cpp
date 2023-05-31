@@ -17,3 +17,4 @@ public:
 
 class manusia {
 public:
+	string JenisKelamin;
