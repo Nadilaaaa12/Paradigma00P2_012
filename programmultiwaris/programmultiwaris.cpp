@@ -45,3 +45,10 @@ public:
 		return " Hallo, nama saya " + nama + " dengan jenis kelamin " + JenisKelamin + " dari sekolah" + sekolah + "\n\n";
 	}
 };
+
+int main() {
+	pelajar siswa("Andi Laksono", "Laki-Laki", "SMAN 1 Bantul");
+	cout << siswa.perkenalan();
+
+	return 0;
+};
