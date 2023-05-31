@@ -25,3 +25,6 @@ int main() {
 	cout << lampuRumah.GetSaklarNo(1) << endl;
 	cout << lampuRumah.GetSaklarNo(2) << endl;
 	cout << lampuRumah.GetSaklarNo(3) << endl;
+
+	return 0;
+}
